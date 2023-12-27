@@ -17,37 +17,30 @@ import YearProgressLogo from "../images/logos/yearprogress.svg";
 import Minimal from "../images/logos/minimal.svg";
 import { GitHubIcon } from "../components/icons/GitHubIcon";
 import { LinkedInIcon } from "../components/icons/LinkedInIcon";
-import { XIcon } from "../components/icons/XIcon";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
+  name: "Oguz Kazkayasi",
+  initials: "OK",
+  location: "Ankara, Turkey, GMT+3",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "Full Stack Engineer focused on building products with extra attention to details",
+    "I'm a passionate frontend/full-stack developer dedicated to building robust applications that offer seamless user experiences.",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
-  personalWebsiteUrl: "https://jarocki.me",
+    "As an enthusiastic frontend/full-stack developer, I specialize in crafting robust applications using leading-edge technologies like Next.js, React, TypeScript, and Node.js. My focus is on delivering high-performance, scalable solutions that provide a seamless and interactive user experience. With a commitment to code quality, I strive to turn complex challenges into intuitive and impactful applications.",
+  avatarUrl: "https://avatars.githubusercontent.com/u/10429728",
   contact: {
-    email: "bartosz.jarocki@hey.com",
-    tel: "+48530213401",
+    email: "oguz@kazkayasi.dev",
+    tel: "+905538015840",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/BartoszJarocki",
+        url: "https://github.com/okazkayasi",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/bjarocki/",
+        url: "https://www.linkedin.com/in/okazkayasi/",
         icon: LinkedInIcon,
-      },
-      {
-        name: "X",
-        url: "https://x.com/BartoszJarocki",
-        icon: XIcon,
       },
     ],
   },
