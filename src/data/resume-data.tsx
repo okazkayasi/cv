@@ -26,7 +26,7 @@ export const RESUME_DATA = {
   about:
     "I'm a passionate frontend/fullstack developer dedicated to building robust applications that offer seamless user experiences.",
   summary:
-    "As an enthusiastic frontend/fullstack developer, I specialize in crafting robust applications using leading-edge technologies like Next.js, React, TypeScript, and Node.js. My focus is on delivering high-performance, scalable solutions that provide a seamless and interactive user experience. With a commitment to code quality, I strive to turn complex challenges into intuitive and impactful applications.",
+    "I specialize in crafting robust applications using leading-edge technologies like Next.js, React, TypeScript, and Node.js. My focus is on delivering high-performance, scalable solutions that provide a seamless and interactive user experience. With a commitment to code quality, I strive to turn complex challenges into intuitive and impactful applications.",
   avatarUrl: "https://avatars.githubusercontent.com/u/10429728",
   contact: {
     email: "oguz@kazkayasi.dev",
