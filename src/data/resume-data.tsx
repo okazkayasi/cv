@@ -24,9 +24,9 @@ export const RESUME_DATA = {
   location: "Ankara, Turkey, GMT+3",
   locationLink: "https://www.google.com/maps/place/Wrocław",
   about:
-    "I'm a passionate frontend/full-stack developer dedicated to building robust applications that offer seamless user experiences.",
+    "I'm a passionate frontend/fullstack developer dedicated to building robust applications that offer seamless user experiences.",
   summary:
-    "As an enthusiastic frontend/full-stack developer, I specialize in crafting robust applications using leading-edge technologies like Next.js, React, TypeScript, and Node.js. My focus is on delivering high-performance, scalable solutions that provide a seamless and interactive user experience. With a commitment to code quality, I strive to turn complex challenges into intuitive and impactful applications.",
+    "As an enthusiastic frontend/fullstack developer, I specialize in crafting robust applications using leading-edge technologies like Next.js, React, TypeScript, and Node.js. My focus is on delivering high-performance, scalable solutions that provide a seamless and interactive user experience. With a commitment to code quality, I strive to turn complex challenges into intuitive and impactful applications.",
   avatarUrl: "https://avatars.githubusercontent.com/u/10429728",
   contact: {
     email: "oguz@kazkayasi.dev",
